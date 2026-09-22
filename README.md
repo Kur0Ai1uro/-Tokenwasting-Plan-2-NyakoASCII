@@ -3,9 +3,11 @@
 
 把图片或英文文字转成灰度 ASCII 的 Windows 桌面程序，带浅色和深色两套界面。图片可调宽度、亮度、对比度和字符集；文字使用 [art](https://github.com/sepandhaghighi/art) 字体，可加装饰。结果能复制或存成 `.txt`。文字字体不支持汉字。
 
-双击 [dist/NyakoASCII.exe](dist/NyakoASCII.exe) 即可运行。
+### 直接启动：
 
-从源码启动：
+从[release](https://github.com/Kur0Ai1uro/-Tokenwasting-Plan-2-NyakoASCII/releases)中下载exe执行
+
+### 从源码启动：
 
 ```bat
 python -m pip install -r requirements.txt
