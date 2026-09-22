@@ -1,0 +1,32 @@
+素材许可
+
+cat.svg、paw-print.svg、image.svg、type.svg、sun.svg、moon.svg
+来源：Lucide
+https://lucide.dev
+许可：ISC License
+Copyright (c) Lucide Contributors
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+Lucide 中部分图标衍生自 Feather（MIT）。本次使用的 cat 与 paw-print 按 Lucide 仓库的 ISC 许可分发。
+
+cat-face.svg
+来源：OpenClipart “cat face outline”，作者 Fabuio
+https://openclipart.org/detail/166759/cat-face-outline
+许可：Public Domain
+
+sleeping-cat.svg
+来源：FreeSVG “Sleeping cat simple drawing”
+https://openiconlibrary.com/packs/freesvg-animal-icons/sleeping-cat-simple-drawing-31fa0e
+许可：CC0 1.0
+https://creativecommons.org/publicdomain/zero/1.0/

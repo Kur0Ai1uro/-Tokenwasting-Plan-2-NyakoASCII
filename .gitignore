@@ -1,0 +1,28 @@
+# 构建产物（由 build.bat / PyInstaller 生成）
+dist/
+build/
+*.spec
+
+# Python 缓存与字节码
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 打包 / 测试产物
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
